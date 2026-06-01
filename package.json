@@ -1,0 +1,12 @@
+{
+	"name": "conexion",
+	"version": "1.0.0",
+	"type": "module",
+	"description": "Un servidor Express para conectar con la API de Fal.ai",
+	"dependencies": {
+		"@fal-ai/client": "^1.10.1",
+		"cors": "^2.8.6",
+		"dotenv": "^17.4.2",
+		"express": "^5.2.1"
+	}
+}
