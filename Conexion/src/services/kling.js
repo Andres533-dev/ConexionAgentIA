@@ -6,7 +6,7 @@ export async function generateVideo(prompt) {
         {
             input: {
                 prompt,
-                duration: 5,
+                duration: 10,
                 generate_audio: true
             }
         }
